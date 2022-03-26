@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+#  1.3  Ejercicios de C++ para mediar al grupo vía GitHub Classroom
 
 ## 🤓 Course overview and learning outcomes 
 

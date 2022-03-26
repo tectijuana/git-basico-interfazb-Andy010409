@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
 
-    int a, b, c, r;
+    double a, b, c, r;
 
     cout << "-*-*-*-*- Introducir las longitudes de los lados de un triángulo encontrar el perimetro -*-*-*-*-\n";
 

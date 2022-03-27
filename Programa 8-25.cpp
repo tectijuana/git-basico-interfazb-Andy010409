@@ -19,6 +19,8 @@ int combinacion(int a, int b) {
 }
 int main()
 {
+	cout << "-*-*-*-*- Generar e imprimir el triangulo de Pascal -*-*-*-*- \n\n";
+
 	int i, j, n = 7;
 	for (i = 0; i <= n; i++) {
 		for (j = n-i; j >=0; j--) {
